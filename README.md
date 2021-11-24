@@ -9,7 +9,7 @@
 - 🎮 <strong> Hobbies </strong> </br> Eu gosto de passar tempo com meus pets e praticar exercícios físicos.
 
 
-- 😄 <strong> Don't be shy, my social contacts are displayed below. </strong>
+- 😄 <strong> Não seja timido, seguem meus contatos. </strong>
 
   <a href ="mailto:eunicej429@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eunice-jesus-de-souza-8071a7124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
