@@ -5,6 +5,13 @@
 
 - 🌱 <strong> Estudando </strong> </br> Eu estou estudando para me tornar uma desenvolvedora Full Stack. Sendo assim, estou praticando e desenvolvendo aplicações com:  Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS e SQL.
 
+    [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
+    **Full Stack Developer Student** \
+    [**Labenu**](https://www.labenu.com.br/) • 2021/Jun - 2021/Dec \
+    `HTML`, `CSS`, `ReactJS`, `NodeJS`, `Jest`, `Javascript`, \
+    `Typescript`, `MySQL `, `AWS`,  `Firebase` \
+    <br/>
+
 
 - 🎮 <strong> Hobbies </strong> </br> Eu gosto de passar tempo com meus pets e praticar exercícios físicos.
 
