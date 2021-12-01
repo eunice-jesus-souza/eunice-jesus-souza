@@ -20,6 +20,11 @@
 
   <a href ="mailto:eunicej429@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eunice-jesus-de-souza-8071a7124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<div>
+  <h4> Visitors </h4>
+  <img src="https://profile-counter.glitch.me/eunice-jesus-souza/count.svg">
+</div>
 
 </br>
 </br>
